@@ -1,4 +1,3 @@
-```markdown
 # mp3-to-xm-remixer
 
 Prototype Python GUI app that loads an MP3, slices/analyzes it, provides a simple remixer/cover generation, and exports a minimal FastTracker II XM module (.xm).
